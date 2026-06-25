@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/rathorepranay/DSA-MASTER/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rathorepranay/DSA-MASTER/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/rathorepranay/DSA-MASTER/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rathorepranay/DSA-MASTER/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rathorepranay/DSA-MASTER/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rathorepranay/DSA-MASTER/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/rathorepranay/DSA-MASTER/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
