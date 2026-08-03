@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rathorepranay/DSA-MASTER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rathorepranay/DSA-MASTER/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rathorepranay/DSA-MASTER/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rathorepranay/DSA-MASTER/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rathorepranay/DSA-MASTER/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rathorepranay/DSA-MASTER/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -106,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rathorepranay/DSA-MASTER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rathorepranay/DSA-MASTER/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
