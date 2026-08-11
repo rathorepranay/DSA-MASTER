@@ -1,13 +1,15 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charSet = set()
-        l = 0
-        res = 0
-        for r in range(len(s)):
-            while s[r] in charSet:
-                charSet.remove(s[l])
-                l += 1
-            charSet.add(s[r])
-            res = max(res, r-l+1)
-        return res
-            
+        left = 0
+        result = 0
+        freq = {}
+        for right in range(len(s)):
+            freq[s[right]] = freq.get(s[right],0) + 1
+            while freq[s[right]] > 1:
+                freq[s[left]] -= 1
+                if freq[s[left]] == 0:
+                    del freq[s[left]]
+                left += 1
+
+            result = max(result,right-left+1)
+        return result
