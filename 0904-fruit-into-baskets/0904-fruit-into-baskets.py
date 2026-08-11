@@ -11,6 +11,6 @@ class Solution:
                 if freq[fruits[left]] == 0:
                     del freq[fruits[left]]
                 left += 1
-            if len(freq) <= 2:
-                result = max(result, right-left + 1)
+            
+            result = max(result, right-left + 1)
         return result 
