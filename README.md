@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rathorepranay/DSA-MASTER/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rathorepranay/DSA-MASTER/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rathorepranay/DSA-MASTER/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rathorepranay/DSA-MASTER/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rathorepranay/DSA-MASTER/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rathorepranay/DSA-MASTER/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rathorepranay/DSA-MASTER/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/rathorepranay/DSA-MASTER/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rathorepranay/DSA-MASTER/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rathorepranay/DSA-MASTER/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rathorepranay/DSA-MASTER/tree/master/0443-string-compression) |
 ## Greedy
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rathorepranay/DSA-MASTER/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
