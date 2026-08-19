@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rathorepranay/DSA-MASTER/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rathorepranay/DSA-MASTER/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/rathorepranay/DSA-MASTER/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rathorepranay/DSA-MASTER/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/rathorepranay/DSA-MASTER/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
