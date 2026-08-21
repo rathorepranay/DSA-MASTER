@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/rathorepranay/DSA-MASTER/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorepranay/DSA-MASTER/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rathorepranay/DSA-MASTER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rathorepranay/DSA-MASTER/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/rathorepranay/DSA-MASTER/tree/master/0338-counting-bits) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorepranay/DSA-MASTER/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sorting
 |  |
 | ------- |
