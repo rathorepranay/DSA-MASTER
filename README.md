@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rathorepranay/DSA-MASTER/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/rathorepranay/DSA-MASTER/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/rathorepranay/DSA-MASTER/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rathorepranay/DSA-MASTER/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorepranay/DSA-MASTER/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rathorepranay/DSA-MASTER/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
