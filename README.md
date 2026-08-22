@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rathorepranay/DSA-MASTER/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rathorepranay/DSA-MASTER/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rathorepranay/DSA-MASTER/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/rathorepranay/DSA-MASTER/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rathorepranay/DSA-MASTER/tree/master/0918-maximum-sum-circular-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rathorepranay/DSA-MASTER/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rathorepranay/DSA-MASTER/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rathorepranay/DSA-MASTER/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rathorepranay/DSA-MASTER/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rathorepranay/DSA-MASTER/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rathorepranay/DSA-MASTER/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rathorepranay/DSA-MASTER/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rathorepranay/DSA-MASTER/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rathorepranay/DSA-MASTER/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
